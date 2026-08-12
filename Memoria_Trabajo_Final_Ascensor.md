@@ -540,16 +540,16 @@ El uso de estas herramientas permitió resolver de forma ágil dudas del día a 
 
 \[2\] L298N Datasheet. [Online]. Available: https://www.st.com/resource/en/datasheet/l298.pdf
 
-\[3\] MFRC522 Datasheet. [Online]. Available: [COMPLETAR]
+\[3\] MFRC522 Datasheet. [Online]. Available: https://www.nxp.com/docs/en/data-sheet/MFRC522.pdf
 
-\[4\] HX711 Datasheet. [Online]. Available: [COMPLETAR]
+\[4\] HX711 Datasheet. [Online]. Available: https://www.mouser.com/datasheet/2/813/hx711_english-1022875.pdf?srsltid=AfmBOoou08G0P2yIFVLCP-mif388n7Xlgudjj4iS-MJn1Mm1avX4v5oM
 
 \[5\] A Beginner's Guide to Designing Embedded System Applications on Arm Cortex-M Microcontroller. [Online]. Available: https://www.arm.com/resources/education/books/designing-embedded-systems
 
 \[6\] Campus Grado FIUBA - TA134. [Online]. Available: https://campusgrado.fi.uba.ar/course/view.php?id=1217
 
-\[7\] Repositorio del proyecto: https://github.com/Mardosreis/tdse-tf_1erC_1-03
+\[7\] Repositorio del proyecto. [Online]. Available:: https://github.com/Mardosreis/tdse-tf_1erC_1-03
 
-\[8\] Fundino elevador: https://funduinoshop.com/es/educacion/funduino/ascensor-funduino/funduino-elevator-ascensor/elevador-para-arduino?srsltid=AfmBOopy4-ADLDJnJeEbezHpD-sw17suN0-LHIAc42m35cEGP_zn_UFD
+\[8\] Fundino elevador. [Online]. Available:: https://funduinoshop.com/es/educacion/funduino/ascensor-funduino/funduino-elevator-ascensor/elevador-para-arduino?srsltid=AfmBOopy4-ADLDJnJeEbezHpD-sw17suN0-LHIAc42m35cEGP_zn_UFD
 
-\[9\] Ascensor Encoder: https://ecopechperu.com/producto/ascensor-03-pisos-con-encoder/
+\[9\] Ascensor Encoder. [Online]. Available:: https://ecopechperu.com/producto/ascensor-03-pisos-con-encoder/
