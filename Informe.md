@@ -46,7 +46,7 @@ El sistema cuenta además con persistencia de configuración en Flash interna, c
 
 # Índice
 
-- [Introducción general](#introducción-general)
+- [Capitulo 1: Introducción general](#introducción-general)
   - [1.1. Objetivo del trabajo](#11-objetivo-del-trabajo)
   - [1.2. Motivación y análisis de mercado](#12-motivación-y-análisis-de-mercado)
 - [Introducción específica](#introducción-específica)
@@ -77,7 +77,7 @@ El sistema cuenta además con persistencia de configuración en Flash interna, c
   - [5.2. Próximos pasos](#52-próximos-pasos)
 - [Bibliografía](#bibliografía)
 
-# Introducción general
+# Cpitulo 1: Introducción general
 
 ## 1.1. Objetivo del trabajo
 
